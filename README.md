@@ -1,19 +1,37 @@
-- 👋 Hi, I’m Saud Kadiri
-- 👀 I’m interested in Operating systems and compilers (ARM architecture being my favorite)
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on DApps and XR
+# 👋 Hi, I’m Saud
+```python
+class SWE:
+  def __init__(self, name: str, interests: [str], working_on: [str]) -> None:
+    self.name = name
+    self.interests = interests
+    self.working_on = working_on
+    
+  def say_hi(self) -> None:
+    print(self)
+    
+  def __str__(self):
+    return 'Hey, I\'m {}. I\'m interested in {} and I\'m currently working on {}.' \
+             .format(self.name, ', '.join(self.interests), ', '.join(self.working_on))
+             
+saud = SWE('Saud', ['AI', 'System softwares'], ['XR', 'DApps'])
+saud.say_hi() # Hey, I'm Saud. I'm interested in AI, System softwares and I'm currently working on XR, DApps.
+```
 
-## Contact me 😊💛
+## Get in touch with me 😊💛
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=saudkadiri)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/saudkadiri)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:saudkadiri@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/saudkadiri)
+[![Twitter](https://img.shields.io/badge/-twitter-gray?style=flat&labelColor=white&logo=twitter)](https://www.twitter.com/saud_kadiri)
+[![Leetcode](https://img.shields.io/badge/-leetcode-black?style=flat&labelColor=white&logo=leetcode)](https://www.leetcode.com/blest)
+[![Website](https://img.shields.io/badge/-website-black?style=flat&labelColor=white&logo=vite)](https://saudkadiri.github.io)
 
 
-## Languages & Tools 🛠
-| <h4 align="left">Languages</h4> | <p align="left">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </p> |
-|---------|----------------------------------|
-| <h4 align="left">Frameworks, Platforms and Libraries</h4> | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SWiftUI](https://img.shields.io/badge/swiftui-000000?style=for-the-badge&logo=swift&logoColor=06187b) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-orange?style=for-the-badge&logo=svelte) ![Tensorflow](https://img.shields.io/badge/tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=orange) ![PyTorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch&logoColor=orange) ![Scikit-learn](https://img.shields.io/badge/scikit-lightgrey?style=for-the-badge&logo=scikit-learn&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas&logoColor=blue) ![Numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=blue) ![Nltk](https://img.shields.io/badge/nltk-black?style=for-the-badge&logo=python&logoColor=cyan) ![Scipy](https://img.shields.io/badge/Scipy-gray?style=for-the-badge&logo=scipy)
+## Technologies & Tools 🛠
 
 
-## Github Profile Trophies 🏆
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=SaudKadiri&theme=radical&no-frame=false" alt="SaudKadiri" /> </p>
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=saudkadiri&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[//]: <> (Influenced by:)
+[//]: <> (1. https://github.com/Zhenye-Na/zhenye-na)
