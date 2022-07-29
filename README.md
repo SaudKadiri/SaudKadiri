@@ -26,12 +26,15 @@ saud.say_hi() # Hey, I'm Saud. I'm interested in AI, System softwares and I'm cu
 [![Leetcode](https://img.shields.io/badge/-leetcode-black?style=flat&labelColor=white&logo=leetcode)](https://www.leetcode.com/blest)
 [![Website](https://img.shields.io/badge/-website-black?style=flat&labelColor=white&logo=vite)](https://saudkadiri.github.io)
 
-
 ## Technologies & Tools 🛠
 
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=saudkadiri&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 My Github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saudkadiri&show_icons=true&theme=gotham" alt="saudkadiri" />
+
 
 [//]: <> (Influenced by:)
 [//]: <> (1. https://github.com/Zhenye-Na/zhenye-na)
