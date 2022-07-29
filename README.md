@@ -18,7 +18,7 @@ saud.say_hi()
 # Hey! I'm Saud, a Software Engineer. I'm interested in AI, System softwares and I'm currently working on XR based DApp.
 ```
 
-## Get in touch with me 😊💛
+## 😊 Get in touch with me 💛
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saudkadiri)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/saudkadiri)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:saudkadiri@gmail.com)
@@ -27,7 +27,7 @@ saud.say_hi()
 [![Leetcode](https://img.shields.io/badge/-leetcode-black?style=flat&labelColor=white&logo=leetcode)](https://www.leetcode.com/blest)
 [![Website](https://img.shields.io/badge/-website-black?style=flat&labelColor=white&logo=vite)](https://saudkadiri.github.io)
 
-## Technologies & Tools 🛠
+## 🛠 Technologies & Tools
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-white.svg?style=for-the-badge&logo=swift)
