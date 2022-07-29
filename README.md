@@ -41,7 +41,7 @@ saud.say_hi() # Hey, I'm Saud. I'm interested in AI, System softwares and I'm cu
 [![trophy](https://github-profile-trophy.vercel.app/?username=saudkadiri&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 My Github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saudkadiri&show_icons=true&theme=gotham" alt="saudkadiri" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saudkadiri&show_icons=true" alt="saudkadiri" />
 <br>
 <!--END_SECTION:waka-->
 <p align="center">
