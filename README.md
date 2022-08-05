@@ -14,9 +14,9 @@ class SWE:
     return 'Hey! I\'m {}, a Software Engineer. I\'m interested in {} and I\'m currently working on {}.' \
              .format(self.name, ', '.join(self.interests), ', '.join(self.working_on))
              
-saud = SWE('Saud', ['AI', 'System softwares'], ['XR based DApp'])
+saud = SWE('Saud', ['AI', 'System softwares', 'Competitive Programming'], ['XR based DApp'])
 saud.say_hi() 
-# Hey! I'm Saud, a Software Engineer. I'm interested in AI, System softwares and I'm currently working on XR based DApp.
+# Hey! I'm Saud, a Software Engineer. I'm interested in AI, System softwares, Competitive Programming and I'm currently working on XR based DApp.
 ```
 
 ## 😊 Get in touch with me 💛
