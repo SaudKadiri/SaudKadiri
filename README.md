@@ -40,11 +40,15 @@ saud.say_hi()
 ![Rust](https://img.shields.io/badge/rust-darkgray.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go) -->
 
-### Environment
+## 👨‍💻 Environment
 ### OS (Saud 🫶 Unix)
 ![macOS](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macos&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
 
+### IDE/Text editor
+![VScode](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![XCode](https://img.shields.io/badge/XCODE-black?style=for-the-badge&logo=xcode&logoColor=blue)
+![VI](https://img.shields.io/badge/vi-darkgreen?style=for-the-badge&logo=vim)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=saudkadiri&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
