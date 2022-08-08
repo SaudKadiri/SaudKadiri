@@ -40,12 +40,13 @@ saud.say_hi()
 ![Rust](https://img.shields.io/badge/rust-darkgray.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go) -->
 
-## 👨🏻‍💻Environment
-### OS (Saud 🫶 Unix)
+
+## 💻 Environment
+### Operating System (Saud 🫶 Unix)
 ![macOS](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macos&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
 
-### IDEs / Text editors
+### IDE / Text editor
 ![VScode](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![XCode](https://img.shields.io/badge/XCODE-black?style=for-the-badge&logo=xcode&logoColor=blue)
 ![VI](https://img.shields.io/badge/vi-darkgreen?style=for-the-badge&logo=vim)
@@ -56,10 +57,6 @@ saud.say_hi()
 ![Safari](https://img.shields.io/badge/safari-blue?style=for-the-badge&logo=safari)
 ![Brave](https://img.shields.io/badge/brave-white?style=for-the-badge&logo=brave)
 
-### Libraries
-
-### Frameworks
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=saudkadiri&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -68,7 +65,6 @@ saud.say_hi()
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saudkadiri&show_icons=true" alt="saudkadiri" />
 <br>
 
-<!--END_SECTION:waka-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
