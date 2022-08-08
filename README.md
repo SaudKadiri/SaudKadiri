@@ -40,7 +40,8 @@ saud.say_hi()
 ![Rust](https://img.shields.io/badge/rust-darkgray.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go) -->
 
-### Operating Systems (Saud 🫶 Unix)
+### Environment
+### OS (Saud 🫶 Unix)
 ![macOS](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macos&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
 
