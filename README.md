@@ -40,22 +40,34 @@ saud.say_hi()
 ![Rust](https://img.shields.io/badge/rust-darkgray.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go) -->
 
-## 👨‍💻 Environment
+## 👨🏻‍💻Environment
 ### OS (Saud 🫶 Unix)
 ![macOS](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macos&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
 
-### IDE/Text editor
+### IDEs / Text editors
 ![VScode](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![XCode](https://img.shields.io/badge/XCODE-black?style=for-the-badge&logo=xcode&logoColor=blue)
 ![VI](https://img.shields.io/badge/vi-darkgreen?style=for-the-badge&logo=vim)
+![Nano](https://img.shields.io/badge/nano-white?style=for-the-badge&logo=nano)
+![Replit](https://img.shields.io/badge/replit-0d111c?style=for-the-badge&logo=replit)
+
+### Browser
+![Safari](https://img.shields.io/badge/safari-blue?style=for-the-badge&logo=safari)
+![Brave](https://img.shields.io/badge/brave-white?style=for-the-badge&logo=brave)
+
+### Libraries
+
+### Frameworks
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=saudkadiri&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 ## 📈 My Github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saudkadiri&show_icons=true" alt="saudkadiri" />
 <br>
+
 <!--END_SECTION:waka-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
