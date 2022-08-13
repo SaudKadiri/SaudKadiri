@@ -28,7 +28,7 @@ saud.say_hi()
 [![Leetcode](https://img.shields.io/badge/-leetcode-black?style=flat&labelColor=white&logo=leetcode)](https://www.leetcode.com/blest)
 [![Website](https://img.shields.io/badge/-website-black?style=flat&labelColor=white&logo=vite)](https://saudkadiri.github.io)
 
-## 🛠 Technologies & Tools
+## 🛠 Technology Stack
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-white.svg?style=for-the-badge&logo=swift)
