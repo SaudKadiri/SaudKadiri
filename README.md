@@ -25,8 +25,8 @@ saud.say_hi()
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:saudkadiri@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/saudkadiri)
 [![Twitter](https://img.shields.io/badge/-twitter-gray?style=flat&labelColor=white&logo=twitter)](https://www.twitter.com/saud_kadiri)
-<!--[![Leetcode](https://img.shields.io/badge/-leetcode-black?style=flat&labelColor=white&logo=leetcode)](https://www.leetcode.com/blest) -->
 [![Website](https://img.shields.io/badge/-website-black?style=flat&labelColor=white&logo=vite)](https://saudkadiri.github.io)
+<!--[![Leetcode](https://img.shields.io/badge/-leetcode-black?style=flat&labelColor=white&logo=leetcode)](https://www.leetcode.com/blest) -->
 
 ## 🛠 Technology Stack
 ### Languages
@@ -36,6 +36,7 @@ saud.say_hi()
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-yellow.svg?style=for-the-badge&logo=MySQL)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-grey.svg?style=for-the-badge&logo=gnu-bash)
+
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-darkgray.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go) -->
