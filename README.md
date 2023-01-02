@@ -37,13 +37,8 @@ saud.say_hi()
 ![SQL](https://img.shields.io/badge/mysql-yellow.svg?style=for-the-badge&logo=MySQL)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-grey.svg?style=for-the-badge&logo=gnu-bash)
 
-<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-darkgray.svg?style=for-the-badge&logo=rust&logoColor=orange)
-![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go) -->
-
-
 ## 💻 Environment
-### Operating System (Saud 🫶 Unix)
+### Operating System (I 💙 Unix)
 ![macOS](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macos&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
 
