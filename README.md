@@ -37,6 +37,9 @@ saud.say_hi()
 ![SQL](https://img.shields.io/badge/mysql-yellow.svg?style=for-the-badge&logo=MySQL)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-grey.svg?style=for-the-badge&logo=gnu-bash)
 
+### Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-grey.svg?style=for-the-badge&logo=next.js)
+
 ## 💻 Environment
 ### Operating System (I 💙 Unix)
 ![macOS](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macos&logoColor=black)
